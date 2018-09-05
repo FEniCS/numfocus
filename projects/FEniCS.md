@@ -21,7 +21,6 @@ Twitter: [@fenicsproject](https://twitter.com/fenicsproject)
 [Team](https://bitbucket.org/fenics-project/governance/src/master/people.md)
 
 **Steering Council**
-- Jan Blechta (Charles University, Chemnitz University of Technology)
 - Jack S. Hale (University of Luxembourg)
 - Anders Logg (Chalmers University of Technology)
 - Chris Richardson (University of Cambridge)
